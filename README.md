@@ -10,7 +10,6 @@ Projects 📌
 - developer of https://www.bithumb.pro/ 💱
 - developer of https://bytom.io/ ♾️
 - core developer of https://sup.finance/ 💸
-- technical manger of https://mynft.io/ 📈
 
 
 Around the web 🌐
